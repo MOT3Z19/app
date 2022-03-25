@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973460873096",
+    "project_id": "bookass-9aa7c",
+    "storage_bucket": "bookass-9aa7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973460873096:android:82f88222d4180f6ce6643d",
+        "android_client_info": {
+          "package_name": "com.example.ass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973460873096-7519icnbk781t9m64v3ob7ek0kf7dje5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOj2JNFK1e8qIzLSrYphtWRlsfguS7KHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973460873096-7519icnbk781t9m64v3ob7ek0kf7dje5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
